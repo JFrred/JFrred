@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Apache Kafka, elasticsearch, microservices...**
 
-- 📫 How to reach me **fryderyk32j@gmail.com**
+- 📫 How to reach me **fryderyk.jachimczak@gmail.com**
 
 - ⚡ 2022 Goal: **Land my dream job as a java software developer**
 
