@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **Apache Kafka, elasticsearch, microservices...**
 
-- 📫 How to reach me **fryderyk.jachimczak@gmail.com**
+- 📫 How to reach me **fryderyk32j@gmail.com**
 
 - ⚡ 2022 Goal: **Land my dream job as a java software developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jfrred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jfrred" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fryderyk-j-04a7aa221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fryderyk-j-04a7aa221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fryderyk-jachimczak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fryderyk-j-04a7aa221" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
